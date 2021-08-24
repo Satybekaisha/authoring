@@ -1,5 +1,5 @@
 # authoring
-![Blume](octocat.png)
+![Blume](images/flower-729512_1920.jpg)
 
 # Markdown mit github Geschmack 
 ## Checkboxes erstellen
@@ -13,10 +13,10 @@
 [Externer Link](htttps://docs.github.com/de)
 
 ### Interner Link
-[Bilder](images)
+[Bilder](images/flower-729512_1920.jpg)
 
 ### Bilder
-![Blume]()
+![Blume](.jpg)
 
 ### Emojis
 🦁
