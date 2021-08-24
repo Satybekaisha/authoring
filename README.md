@@ -16,7 +16,7 @@
 [Bilder](images/flower-729512_1920.jpg)
 
 ### Bilder
-![Blume](.jpg)
+![Blume](images/flower-729512_1920.jpg)
 
 ### Emojis
 🦁
