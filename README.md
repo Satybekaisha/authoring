@@ -4,10 +4,10 @@
 # Markdown mit github Geschmack 
 ## Checkboxes erstellen
 - [x] [Externer Link](#externer-Link)
-- [ ](#interner-Link)
-- [Bilder](#bilder)
-- [Emojis](#emojis)
-- [Tabellen](#tabelle)
+- [x] [Interner Link](#interner-Link)
+- [x] [Bilder](#bilder)
+- [x] [Emojis](#emojis)
+- [x] [Tabellen](#tabelle)
 
 ### Externer Link 
 [Externer Link](htttps://docs.github.com/de)
@@ -16,6 +16,7 @@
 [Bilder](images)
 
 ### Bilder
+![Blume]()
 
 ### Emojis
 🦁
